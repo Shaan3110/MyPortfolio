@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1, h2 {
+    font-weight: 700;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  #header {
+    background-color: #343a40;
+  }
+  
+  #experience ul, #projects ul, #skills ul {
+    margin: 0;
+  }
+  
+  footer {
+    background-color: #343a40;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  #skills .row div {
+    margin-bottom: 20px;
+  }
+  
